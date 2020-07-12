@@ -1,8 +1,8 @@
 # Week One
 
-- [ ] PAIRIN survey
+- [x] PAIRIN survey
 
-- [ ] career journal anxwers
+- [x] career journal anxwers
 
 1. When working towards goals in the past I have made a point to keep to a  strict schedule to help reduce stress. I have found that with out a list of things to accomplish or a suggested time-line I can become scattered and more stressed. Reducing the amount of stress can help minimize the chance of failure and over-all negative mental state. Keeping my life outside of school in a routine will help me pay more attention to the things I am being taught.
 
