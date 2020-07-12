@@ -1,3 +1,17 @@
 # Week One
 
 - [ ] PAIRIN survey
+
+- [ ] career journal anxwers
+
+1. When working towards goals in the past I have made a point to keep to a  strict schedule to help reduce stress. I have found that with out a list of things to accomplish or a suggested time-line I can become scattered and more stressed. Reducing the amount of stress can help minimize the chance of failure and over-all negative mental state. Keeping my life outside of school in a routine will help me pay more attention to the things I am being taught.
+
+    2. When taking the PAIRIN survey I tried to answer as honestly as I could even though the answers I gave could shine light on negative aspects. I was surprised to see that "calm, cool, and collected" was one of my strengths. I have always been able to step back and look at the big picture (end product) of a project and plan a time sensitive schedule to achieve the goal. I have also always thought that I have been able to work well with groups and keep people on track while not being discouraged.
+
+    3. I would say that I work best in environments where I can bounce ideas off other people. I also believe that a quiet non-sensory overload areas are best for concentration. I have also found that an environment where I can take multiple breaks has worked well through out my time in Turing so far. I would say a preference of mine would be to have a remote job where I can control my environment to keep myself concentrated and not over sensitized. During my new career I would prefer to get out of my comfort zone and try new tactics of working.
+
+    4. During a new career one area specifically that I would like to work to improve would be my issue with being scared to share ideas in fear of looking under-qualified. My fear of speaking out or asking questions due to other peoples opinion has been a big part of my life I have been actively working to fix. When it comes to my professional skills I want to be able to work with colleges freely without the fear of judgement. Another way of working on this would be to practice and do y own research so that I am educated and knowledgable on the subject so I will feel prepared.
+
+    5. I have never been a person that analyzes my own strengths and in return I can feel inferior compared to others. I believe a deeper understanding of my strengths will help me enhance those areas and use them more to my benefit. Not only can I enhance my strengths more but I will also be able to notice my weaknesses and spend more time working towards improvement. I hope to also be able to use my strengths to work towards turing my weakness into strengths. A developer with less weaknesses can be more successful and also be able to learn from many different sources. Getting rid of my weakness of speaking out hopefully I will be able to fluidly work with coworkers helping to diversify my understanding.
+
+    6. Currently my career after Turing is a full time front end developing job where I can work with multiple people to help further my understanding for software development. The location whether remote or not has never been a required aspect but I would prefer to have a remote job. I have never had a "career" only small "jobs" while still attending college but I am sure that throughout my time at Turing my views and expectations will slowly change. I will keep my mind open when looking for a job hoping to always continue to further my understanding and continue to experience new things.
